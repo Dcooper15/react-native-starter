@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
 
     textOneStyle: {
         borderWidth: 3,
-        borderColor: 'red',
+        borderColor: 'blue',
         
     },
 
